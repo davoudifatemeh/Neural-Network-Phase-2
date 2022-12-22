@@ -3,7 +3,7 @@ In this project, with the ```TensorFlow``` library and using the ```Keras``` hig
 
  ## Project Description
 
- In this project, using neural networks, I have recognized the race of each person based on his/her face image. With the help of the ```Keras``` interface, I have created a Forward Feed network that includes at least two hidden layers (taking into account the input and output layers (softmax), the network has 4 layers.)
+ In this project, using neural networks, I have recognized the race of each person based on his/her face image. With the help of the ```Keras``` interface, I have created a FeedForward network that includes at least two hidden layers (taking into account the input and output layers (softmax), the network has 4 layers.)
 
 I have read data using ```Keras``` interface.  Then I have grayscaled the images and changed them to 100x100 scale. I have printed the number of data read and the number of available classes. I have calculated the number of images of each class and drawn a bar graph for it.
 
